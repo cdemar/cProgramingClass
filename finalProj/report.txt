@@ -1,0 +1,114 @@
+Number of player:  3
+
+
+ROUND 1
+
+Players' hands: 
+ 
+Player  1 hands:
+Nine of Spades
+Ace of Clubs
+
+Player  2 hands:
+Five of Diamonds
+King of Hearts
+
+Player  3 hands:
+Four of Spades
+Seven of Diamonds
+
+Player  1  bets 50
+Player  2  folds
+Player  3  bets 50
+
+Current highest bet is  50
+
+Cards on Table
+Nine of Clubs
+Five of Spades
+Ace of Spades
+
+
+Cards on table: 
+Nine of Clubs 
+Five of Spades 
+Ace of Spades 
+Queen of Spades
+
+
+Cards on table: 
+Nine of Clubs 
+Five of Spades 
+Ace of Spades 
+Queen of Spades 
+Seven of Spades
+
+
+Player 1 got a Two Pair.
+Player 2 folded.
+
+Player 3 got a Pair.
+
+The winner is 1 and won 100
+
+Players' money: 
+Player number 1: 100 
+Player number 2: 50 
+Player number 3: 0 
+
+
+ROUND 2
+
+Players' hands: 
+ 
+Player  1 hands:
+Deuce of Clubs
+Six of Hearts
+
+Player  2 hands:
+Queen of Spades
+Ten of Spades
+
+Player  3 hands:
+Five of Spades
+Jack of Clubs
+
+Player  1  bets 50
+Player  2  bets 50
+
+Current highest bet is  50
+
+Cards on Table
+Jack of Diamonds
+Deuce of Hearts
+Six of Diamonds
+
+
+Cards on table: 
+Jack of Diamonds 
+Deuce of Hearts 
+Six of Diamonds 
+Jack of Hearts
+
+
+Cards on table: 
+Jack of Diamonds 
+Deuce of Hearts 
+Six of Diamonds 
+Jack of Hearts 
+King of Hearts
+
+
+Player 1 got a Two Pair.
+
+Player 2 got a Pair.
+Player 3 folded.
+
+The winner is 1 and won 100
+
+Players' money: 
+Player number 1: 150 
+Player number 2: 0 
+Player number 3: 0 
+
+PLAYER 1 WON
